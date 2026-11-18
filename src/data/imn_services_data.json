@@ -1,0 +1,923 @@
+{
+  "promotional-videos": {
+    "name": "Promotional Videos",
+    "path": "/portfolio/promotional-videos",
+    "slug": "promotional-videos",
+    "description": "High-impact video content for your brand. 1 & 2 camera setups, cinematic filming, color correction, sound design.",
+    "items": [
+      {
+        "id": "inspire-practice",
+        "title": "Inspire Dentistry — The Most Expensive Asset",
+        "category": "Healthcare & Dental",
+        "description": "Cinematic commercial for Inspire Dentistry positioning clinical mastery, advanced technology, and patient transformation as the practice's ultimate benchmark.",
+        "coverImage": "/images/service-promo-real.jpg",
+        "videoSrc": "/videos/most-expensive-thing.mov"
+      },
+      {
+        "id": "inspire-handcraft",
+        "title": "Inspire Dentistry — Crafting the Smile by Hand",
+        "category": "Healthcare & Dental",
+        "description": "Macro-cinematography capturing bespoke dental craftsmanship, laboratory tooth fabrication, and restorative artistry.",
+        "coverImage": "/images/tooth-by-hand-wide.jpg",
+        "videoSrc": "/videos/tooth-by-hand-reel.mov"
+      },
+      {
+        "id": "1gVkhCWVDM1Ly-RZoSE3QYMAAjsidfXJl",
+        "title": "Just-In Focus: Charlie Interview (2025 Edition)",
+        "category": "Interviews & Thought Leadership",
+        "description": "Full-length 4K studio soundstage interview with Charlie exploring entrepreneurship, mindset, and media authority.",
+        "coverImage": "/images/justin-ortiz-set.jpg"
+      },
+      {
+        "id": "1ljjyflTfQ9gnRKCY7N1WRS7gZe2Z8qR1",
+        "title": "QC Signs — Brand Commercial (Version 2)",
+        "category": "Corporate & Manufacturing",
+        "description": "High-impact commercial for QC Signs capturing large-scale facility operations, fabrication craftsmanship, and visual authority.",
+        "coverImage": "/images/service-commercial-real.jpg"
+      },
+      {
+        "id": "1aS_1Red1EpOLB3osbSugx8U4sDP6n1TS",
+        "title": "QC Signs — Flat Bed Printer Precision Clip",
+        "category": "Industrial Manufacturing",
+        "description": "High-definition industrial macro cinematography highlighting state-of-the-art flat bed printing technology.",
+        "coverImage": "/images/field-commercial-bts.jpg"
+      },
+      {
+        "id": "ZTQQOBXucwg",
+        "title": "Latest Brand Story",
+        "description": "A fresh cinematic brand story positioning the client as a leader in their space"
+      },
+      {
+        "id": "jBR6lkrkDbs",
+        "title": "Featured Promotional Video",
+        "description": "Latest cinematic promotional production showcasing brand storytelling at its finest"
+      },
+      {
+        "id": "oiu4XcBTKJI",
+        "title": "Brand Authority Video",
+        "description": "Professionally scripted video positioning clients as industry leaders"
+      },
+      {
+        "id": "ZROek9gA9uM",
+        "title": "Service Showcase",
+        "description": "Comprehensive promotional content highlighting key offerings"
+      },
+      {
+        "id": "QBmX4qbunWk",
+        "title": "Promotional Video",
+        "description": "High-impact promotional content designed to drive engagement"
+      },
+      {
+        "id": "MBQeeUYkRy4",
+        "title": "Brand Story",
+        "description": "Compelling narrative that connects with your audience"
+      },
+      {
+        "id": "EZS2b2t48lk",
+        "title": "Product Promo",
+        "description": "Dynamic content showcasing products and services"
+      },
+      {
+        "id": "lVltwpJCl8M",
+        "title": "Corporate Video",
+        "description": "Professional production that elevates your brand presence"
+      },
+      {
+        "id": "HrvKKR3sna4",
+        "title": "Brand Momentum",
+        "description": "Strategic promotional content that builds unstoppable brand momentum"
+      },
+      {
+        "id": "ZDA5U0mG67s",
+        "title": "The Amplifier",
+        "description": "High-impact video designed to amplify your message across platforms"
+      },
+      {
+        "id": "UsvziEiGdyI",
+        "title": "Market Maker",
+        "description": "Promotional content that positions your brand to own the market"
+      },
+      {
+        "id": "Y8aSgaOxtm0",
+        "title": "The Catalyst",
+        "description": "Spark-driven video designed to ignite interest and accelerate growth"
+      },
+      {
+        "id": "g8sUbZ42MAc",
+        "title": "Visibility Engine",
+        "description": "Content engineered to maximize your brand's discoverability"
+      },
+      {
+        "id": "UVYVZ54P6eU",
+        "title": "The Signature",
+        "description": "A defining promotional piece that encapsulates your brand's identity"
+      },
+      {
+        "id": "k4DKR-hxblM",
+        "title": "Brand in Motion",
+        "description": "Cinematic storytelling that brings your brand's vision to life"
+      },
+      {
+        "id": "w6JhPkUl920",
+        "title": "The Closer",
+        "description": "Persuasive promotional content crafted to convert viewers into customers"
+      },
+      {
+        "id": "vAJfu7fonKs",
+        "title": "Authority Builder",
+        "description": "Video that establishes your expertise and builds audience trust"
+      },
+      {
+        "id": "F8-v08AaNKM",
+        "title": "The Spotlight",
+        "description": "Premium content that puts your brand center stage"
+      },
+      {
+        "id": "7ry3Ea5viwA",
+        "title": "Impact Reel",
+        "description": "Bold visuals and compelling narrative for maximum viewer impact"
+      },
+      {
+        "id": "2j2eX89prRY",
+        "title": "Brand Elevation",
+        "description": "Polished production that elevates your brand above the competition"
+      },
+      {
+        "id": "m0P--R7Gl6M",
+        "title": "The Reveal",
+        "description": "Cinematic reveal that builds anticipation and delivers a powerful payoff"
+      },
+      {
+        "id": "4R40846B8A8",
+        "title": "Growth Driver",
+        "description": "Results-focused content designed to drive measurable business growth"
+      },
+      {
+        "id": "p81NCZmCzN4",
+        "title": "Category Leader",
+        "description": "Promotional video that positions your brand at the top of your industry"
+      },
+      {
+        "id": "YRohWwOfAC0",
+        "title": "The Statement",
+        "description": "A bold, declarative video that makes your brand impossible to ignore"
+      },
+      {
+        "id": "a03V2m2tXbI",
+        "title": "Screen Presence",
+        "description": "Polished content crafted to own every screen it appears on"
+      },
+      {
+        "id": "EVzUXy0_BdU",
+        "title": "The Edge",
+        "description": "Sharp, cutting-edge content designed to give your brand a competitive advantage"
+      },
+      {
+        "id": "prs0Km24Ilk",
+        "title": "Story Driven",
+        "description": "Narrative-led video that connects with your audience on an emotional level"
+      },
+      {
+        "id": "1Iwynx0VtYE",
+        "title": "Power Play",
+        "description": "High-impact content that commands attention and drives decisive action"
+      },
+      {
+        "id": "4wbsvyYMP8k",
+        "title": "Full Throttle",
+        "description": "Adrenaline-fueled promotional content that drives momentum and recall"
+      },
+      {
+        "id": "EIy-fZks4Vk",
+        "title": "The Launchpad",
+        "description": "Launch-ready video designed to propel new products into the spotlight"
+      },
+      {
+        "id": "9C1_pNNM0qw",
+        "title": "Brand Forge",
+        "description": "A masterfully crafted video that forges lasting brand identity"
+      },
+      {
+        "id": "onVpXH_ogFE",
+        "title": "Peak Performance",
+        "description": "Premium content showcasing your brand at its absolute best"
+      },
+      {
+        "id": "Evk_Se6UDek",
+        "title": "The Shift",
+        "description": "A perspective-shifting video that redefines how audiences see your brand"
+      }
+    ]
+  },
+  "podcast-production": {
+    "name": "Podcast Production",
+    "path": "/portfolio/podcast-production",
+    "slug": "podcast-production",
+    "description": "End-to-end podcast creation and management. Multi-camera setups (1, 2, or 3 cameras), high-fidelity audio engineering, and social clips.",
+    "items": [
+      {
+        "id": "aHxQ3sGIRIc",
+        "title": "Industry Insights",
+        "description": "In-depth podcast production that dives into industry insights and positions you as a thought leader."
+      },
+      {
+        "id": "VwcfP1qsASw",
+        "title": "The Expert's Edge",
+        "description": "Professional podcast production with full-service approach — from concept to final cut."
+      },
+      {
+        "id": "aIMPZTfp1z0",
+        "title": "Voice of Authority",
+        "description": "Full-service podcast production and editing that positions you as the go-to voice."
+      },
+      {
+        "id": "FLWL1GPW88Y",
+        "title": "Deep Dive Session",
+        "description": "Complete podcast production showcasing our full-service approach to building topical authority.",
+        "isVertical": true
+      },
+      {
+        "id": "GMgp5hQ_Kcg",
+        "title": "Thought Leadership Hour",
+        "description": "Professionally produced episode designed to establish thought leadership in your niche."
+      },
+      {
+        "id": "-4rQ2PIy-90",
+        "title": "Trust & Authority",
+        "description": "High-quality podcast content that builds trust and authority with your target audience."
+      },
+      {
+        "id": "NAYyPVtw0H4",
+        "title": "Amplify Your Message",
+        "description": "Compelling podcast content crafted to amplify your message and grow your audience."
+      },
+      {
+        "id": "mTxl1cdPGGw",
+        "title": "The Conversation",
+        "description": "Engaging, conversation-driven podcast content that connects with your audience on a deeper level."
+      },
+      {
+        "id": "CNLqS_H_Qx0",
+        "title": "Authority Builder",
+        "description": "Strategic podcast production designed to build authority and drive meaningful engagement."
+      }
+    ]
+  },
+  "social-reels": {
+    "name": "Social Reels",
+    "path": "/portfolio/social-reels",
+    "slug": "social-reels",
+    "description": "Short-form content optimized for engagement on Instagram, TikTok, and YouTube Shorts. 30 reels/mo packages available.",
+    "items": [
+      {
+        "id": "inspire-invisalign",
+        "title": "Inspire Dentistry — Invisalign Transformation",
+        "category": "Dental & Aesthetic",
+        "description": "High-converting 9:16 vertical reel breaking down Invisalign clear aligners with dynamic pacing and clinical credibility.",
+        "coverImage": "/images/invisalign-reel-cover.jpg",
+        "videoSrc": "/videos/invisalign-reel.mov",
+        "isVertical": true
+      },
+      {
+        "id": "inspire-most-expensive",
+        "title": "Inspire Dentistry — Most Expensive Thing I Own",
+        "category": "Dental & Aesthetic",
+        "description": "Viral hook narrative highlighting practice investment, state-of-the-art dental technology, and patient care.",
+        "coverImage": "/images/most-expensive-thing-cover.jpg",
+        "videoSrc": "/videos/most-expensive-thing.mov",
+        "isVertical": true
+      },
+      {
+        "id": "inspire-michael-bay",
+        "title": "Michael Bay Cinematic Practice Cut",
+        "category": "Viral Cuts",
+        "description": "High-octane, fast-paced vertical edit featuring explosive visual pacing and studio sound design.",
+        "coverImage": "/images/michael-bay-cover.jpg",
+        "videoSrc": "/videos/michael-bay-tiktok.mp4",
+        "isVertical": true
+      },
+      {
+        "id": "sugar-daddies-reel",
+        "title": "Sugar Daddies — Culture & Brand Reel",
+        "category": "Lifestyle & Brand",
+        "description": "Energetic, engaging lifestyle narrative crafted for maximum social shareability and comment velocity.",
+        "coverImage": "/images/sugar-daddies-cover.jpg",
+        "videoSrc": "/videos/sugar-daddies.mp4",
+        "isVertical": true
+      },
+      {
+        "id": "inspire-tiktok-care",
+        "title": "Inspire Dentistry — Patient Experience TikTok",
+        "category": "Dental & Aesthetic",
+        "description": "Authentic, relatable short-form video humanizing the practice and driving local patient bookings.",
+        "coverImage": "/images/i-love-you-tiktok-cover.jpg",
+        "videoSrc": "/videos/i-love-you-tiktok.mp4",
+        "isVertical": true
+      },
+      {
+        "id": "inspire-handcraft-reel",
+        "title": "Inspire Dentistry — Tooth by Hand Lab Reel",
+        "category": "Dental & Aesthetic",
+        "description": "Macro-cinematography capturing bespoke dental craftsmanship and laboratory precision.",
+        "coverImage": "/images/tooth-by-hand-cover.jpg",
+        "videoSrc": "/videos/tooth-by-hand-reel.mov",
+        "isVertical": true
+      },
+      {
+        "id": "r6VzAOvgTpE",
+        "title": "Brand Reel",
+        "category": "Lifestyle & Brand",
+        "description": "Scroll-stopping vertical content for social platforms",
+        "isVertical": true
+      },
+      {
+        "id": "paaMXuDGRR4",
+        "title": "Social Reel",
+        "category": "Viral Cuts",
+        "description": "Engaging vertical content for maximum reach",
+        "isVertical": true
+      },
+      {
+        "id": "537uFuDYYL0",
+        "title": "The Hook",
+        "category": "Short-Form Hooks",
+        "description": "Attention-grabbing reel designed to capture viewers in the first second",
+        "isVertical": true
+      },
+      {
+        "id": "FRk201404ZI",
+        "title": "Scroll Breaker",
+        "category": "Scroll Breakers",
+        "description": "High-energy short-form content that disrupts the feed",
+        "isVertical": true
+      },
+      {
+        "id": "x_jR301ZrSw",
+        "title": "Quick Impact",
+        "category": "Brand Momentum",
+        "description": "Punchy vertical content designed for instant engagement",
+        "isVertical": true
+      },
+      {
+        "id": "_87AHvXHobA",
+        "title": "The Spark",
+        "category": "Viral Cuts",
+        "description": "Short-form content that ignites curiosity and drives clicks",
+        "isVertical": true
+      },
+      {
+        "id": "PCS7XcEg8jU",
+        "title": "Micro Story",
+        "category": "Lifestyle & Brand",
+        "description": "Bite-sized storytelling that resonates with your audience",
+        "isVertical": true
+      },
+      {
+        "id": "1VET75bi9KM",
+        "title": "Feed Takeover",
+        "category": "Short-Form Hooks",
+        "description": "Bold vertical content engineered to dominate the feed",
+        "isVertical": true
+      },
+      {
+        "id": "SF4W552rIUY",
+        "title": "The Pulse",
+        "category": "Scroll Breakers",
+        "description": "Rhythm-driven reel that keeps viewers locked in",
+        "isVertical": true
+      },
+      {
+        "id": "xTE5R-ci8Fc",
+        "title": "Snap Reel",
+        "category": "Brand Momentum",
+        "description": "Fast-cut vertical content optimized for maximum retention",
+        "isVertical": true
+      },
+      {
+        "id": "RyWNDm2Bdj0",
+        "title": "Momentum Builder",
+        "category": "Viral Cuts",
+        "description": "Sequential content that builds brand momentum with every view",
+        "isVertical": true
+      },
+      {
+        "id": "OtuoMgFAPiI",
+        "title": "The Spotlight",
+        "category": "Lifestyle & Brand",
+        "description": "Vertical content that puts your brand center stage",
+        "isVertical": true
+      },
+      {
+        "id": "7xmQ-8JXxoM",
+        "title": "Scroll Magnet",
+        "category": "Short-Form Hooks",
+        "description": "Irresistible short-form content that pulls viewers in",
+        "isVertical": true
+      },
+      {
+        "id": "eFh7qFZvoGE",
+        "title": "The Closer",
+        "category": "Scroll Breakers",
+        "description": "Short-form content with a strong call-to-action finish",
+        "isVertical": true
+      },
+      {
+        "id": "S2ntwFYKHJ8",
+        "title": "Brand Flash",
+        "category": "Brand Momentum",
+        "description": "Lightning-fast brand content that leaves a lasting impression",
+        "isVertical": true
+      }
+    ]
+  },
+  "commercial-production": {
+    "name": "Commercial Production",
+    "path": "/portfolio/commercial-production",
+    "slug": "commercial-production",
+    "description": "Standard and multi-day commercial productions built for advertising campaigns, broadcast TV, websites, and marketing.",
+    "items": [
+      {
+        "id": "emery-spotlight",
+        "title": "Emery Solutions — Commercial Spotlight",
+        "category": "Commercial Production",
+        "description": "Direct-to-market brand spot engineered for high-retention digital engagement and brand recall.",
+        "coverImage": "/images/service-commercial-real.jpg",
+        "videoSrc": "/videos/emery-solutions-spotlight.mp4"
+      },
+      {
+        "id": "three-international-portraits",
+        "title": "Three International — Executive Leadership Series",
+        "category": "Commercial Photography",
+        "description": "12-leader soundstage commercial portraiture and executive media package engineered for global wellness leader Three International. Captured on IMN Soundstage A.",
+        "coverImage": "/images/three-international/jessica.webp",
+        "isPhoto": true,
+        "photoCount": 12
+      },
+      {
+        "id": "1rTOW77HdFI1azMZIqkMWPHXhrb34wGgI",
+        "title": "Emery Solutions — Cruze Automotive Commercial",
+        "category": "Automotive & Commercial",
+        "description": "Dynamic automotive cinema production showcasing precision vehicle performance, lighting artistry, and brand pacing for Emery Solutions.",
+        "coverImage": "/images/production-rig.jpg"
+      },
+      {
+        "id": "1ljjyflTfQ9gnRKCY7N1WRS7gZe2Z8qR1",
+        "title": "QC Signs — Brand Commercial (Version 2)",
+        "category": "Corporate & Industrial",
+        "description": "High-impact brand commercial for QC Signs capturing large-scale facility operations, fabrication craftsmanship, and visual authority.",
+        "coverImage": "/images/service-commercial-real.jpg"
+      },
+      {
+        "id": "emery-spotlight",
+        "title": "Emery Solutions — Commercial Spotlight",
+        "category": "Commercial Production",
+        "description": "Direct-to-market brand spot engineered for high-retention digital engagement and brand recall.",
+        "coverImage": "/images/video-platform.jpg",
+        "videoSrc": "/videos/emery-solutions-spotlight.mp4"
+      },
+      {
+        "id": "1Uhky7axxCi5Kg9QRzPtS3flg7pcA_iSK",
+        "title": "Emery Solutions — Cruz II G Showcase",
+        "category": "Automotive & Commercial",
+        "description": "Clean cinematic export showcasing aerodynamic styling, speed aesthetics, and tailored brand visuals.",
+        "coverImage": "/images/justin-ortiz-set.jpg"
+      },
+      {
+        "id": "1aS_1Red1EpOLB3osbSugx8U4sDP6n1TS",
+        "title": "QC Signs — Flat Bed Printer Precision Clip",
+        "category": "Industrial Manufacturing",
+        "description": "High-definition industrial macro cinematography highlighting state-of-the-art flat bed printing technology.",
+        "coverImage": "/images/media-studio.jpg"
+      },
+      {
+        "id": "1olm53XPnwBXhX_WUobPG0OhH-UA4-gar",
+        "title": "Emery Solutions — Cruze Dynamic Drive",
+        "category": "Automotive & Commercial",
+        "description": "Fast-paced automotive commercial sequence tracking dynamic motion and precision engineering.",
+        "coverImage": "/images/production-rig.jpg"
+      },
+      {
+        "id": "x_jR301ZrSw",
+        "title": "Commercial Short",
+        "description": "Vertical commercial format optimized for social platforms",
+        "isVertical": true
+      },
+      {
+        "id": "r6VzAOvgTpE",
+        "title": "Dynamic Commercial",
+        "description": "Fast-paced vertical content for maximum engagement",
+        "isVertical": true
+      },
+      {
+        "id": "ZROek9gA9uM",
+        "title": "Brand Commercial",
+        "description": "Broadcast-ready commercial that defines the brand identity"
+      },
+      {
+        "id": "GbcxMvdm8ms",
+        "title": "The Spotlight Reel",
+        "description": "High-impact commercial designed to capture attention from the first frame"
+      },
+      {
+        "id": "QpVmq6j7aqA",
+        "title": "Market Dominator",
+        "description": "Strategic commercial production built to own your category"
+      },
+      {
+        "id": "k4DKR-hxblM",
+        "title": "Brand in Motion",
+        "description": "Cinematic storytelling that brings your brand's vision to life"
+      },
+      {
+        "id": "HyJQ2CR9xD8",
+        "title": "The Closer",
+        "description": "Persuasive commercial crafted to convert viewers into customers"
+      },
+      {
+        "id": "PU_n5gW9VBU",
+        "title": "Visual Impact",
+        "description": "Bold visuals and compelling narrative that leave a lasting impression"
+      },
+      {
+        "id": "ij_qfTQCERc",
+        "title": "Authority Spot",
+        "description": "Commercial production that positions your brand as the industry leader"
+      },
+      {
+        "id": "j7h3fmVpBJc",
+        "title": "The Hero Cut",
+        "description": "Premium commercial showcasing your flagship product or service"
+      },
+      {
+        "id": "KnQLNj1cAVE",
+        "title": "Momentum",
+        "description": "Fast-paced commercial that builds energy and drives action"
+      },
+      {
+        "id": "prs0Km24Ilk",
+        "title": "Story Driven",
+        "description": "Narrative-led commercial that connects with your audience on an emotional level"
+      },
+      {
+        "id": "z5kJU5AT9uM",
+        "title": "The Signature Spot",
+        "description": "A signature commercial piece that encapsulates your brand's essence"
+      },
+      {
+        "id": "MKkGSncqM-M",
+        "title": "The Showstopper",
+        "description": "A standout commercial built to stop the scroll and command attention"
+      },
+      {
+        "id": "JivPzJ4QdmM",
+        "title": "Prime Cut",
+        "description": "Precision-edited commercial that delivers your message with maximum clarity"
+      },
+      {
+        "id": "1Kojzkbdvho",
+        "title": "The Opener",
+        "description": "A bold opening commercial that sets the tone and hooks viewers instantly"
+      },
+      {
+        "id": "xKfDcX7ipjo",
+        "title": "Brand Pulse",
+        "description": "High-energy commercial that captures the heartbeat of your brand"
+      },
+      {
+        "id": "VT8vi3nL84o",
+        "title": "The Edge",
+        "description": "Sharp, cutting-edge commercial designed to give your brand a competitive advantage"
+      },
+      {
+        "id": "Gl7fUyk-9ac",
+        "title": "Conversion Engine",
+        "description": "Results-driven commercial engineered to turn viewers into loyal customers"
+      },
+      {
+        "id": "ZhGzV4NxF_g",
+        "title": "Category King",
+        "description": "Dominant commercial production that positions your brand at the top of the market"
+      },
+      {
+        "id": "oq2ISR-xm68",
+        "title": "The Reveal",
+        "description": "Cinematic reveal commercial that builds anticipation and delivers a powerful payoff"
+      },
+      {
+        "id": "XuZorYjx4p8",
+        "title": "Power Play",
+        "description": "High-impact commercial that commands attention and drives decisive action"
+      },
+      {
+        "id": "s165jBGZmYc",
+        "title": "Screen Presence",
+        "description": "Polished commercial crafted to own every screen it appears on"
+      },
+      {
+        "id": "1qZZT52__jw",
+        "title": "The Catalyst",
+        "description": "A spark-driven commercial designed to ignite interest and accelerate growth"
+      },
+      {
+        "id": "s_fwu0KW3m4",
+        "title": "Brand Amplifier",
+        "description": "Strategic commercial that amplifies your message across every platform"
+      },
+      {
+        "id": "5NHMJC9sozg",
+        "title": "The Statement",
+        "description": "A bold, declarative commercial that makes your brand impossible to ignore"
+      },
+      {
+        "id": "RI3k5gdwSF0",
+        "title": "Peak Performance",
+        "description": "Premium commercial showcasing your brand at its absolute best"
+      },
+      {
+        "id": "nbD7FzamqBE",
+        "title": "The Shift",
+        "description": "A perspective-shifting commercial that redefines how audiences see your brand"
+      },
+      {
+        "id": "hyOTGnmKUZ8",
+        "title": "Full Throttle",
+        "description": "Adrenaline-fueled commercial that drives momentum and brand recall"
+      },
+      {
+        "id": "HTEqpYrirFc",
+        "title": "The Launchpad",
+        "description": "Launch-ready commercial designed to propel new products into the spotlight"
+      },
+      {
+        "id": "dQSPsGq3_IE",
+        "title": "Brand Forge",
+        "description": "A masterfully crafted commercial that forges lasting brand identity"
+      }
+    ]
+  },
+  "event-coverage": {
+    "name": "Event Coverage",
+    "path": "/portfolio/event-coverage",
+    "slug": "event-coverage",
+    "description": "Professional event documentation, summits, conferences, galas, and live festival highlight reels across the Carolinas.",
+    "items": [
+      {
+        "id": "imn-your-event",
+        "title": "National Leadership Summit — Live Arena Broadcast",
+        "category": "Arena Summits & Keynotes",
+        "description": "Multi-angle cinematic event coverage engineered for high-impact executive summits, arena keynote speeches, and corporate experiences.",
+        "coverImage": "/images/service-event-real.jpg",
+        "videoSrc": "/videos/imn-your-event-audio.mp4"
+      },
+      {
+        "id": "151TM6Gd8k6BFW0srxBJdU_tN2f4LYMZB",
+        "title": "QC Signs — Facility Tour & Production Vlog",
+        "category": "Facility Tours & BTS",
+        "description": "Immersive behind-the-scenes facility tour documenting the inner workings, team culture, and advanced machinery at QC Signs.",
+        "coverImage": "/images/field-studio-doc.jpg"
+      },
+      {
+        "id": "1LrFnPFV_PMRzraiS8YDeGsOJ74h1bLUF",
+        "title": "Measure Marketing — Live Creative Freestyle Session",
+        "category": "Creative Sessions & Live Sets",
+        "description": "High-energy live freestyle recording capturing genuine creative flow and collaborative agency culture.",
+        "coverImage": "/images/showcase-event.jpg"
+      },
+      {
+        "id": "pfKaClJF5NU",
+        "title": "Executive Keynote & Live Summit Recap",
+        "category": "Arena Summits & Keynotes",
+        "description": "Featured high-energy keynote coverage capturing the presence and audience engagement of live brand summits.",
+        "coverImage": "/images/field-event-keynote-real.jpg",
+        "videoSrc": "/videos/imn-your-event-hero.mp4"
+      },
+      {
+        "id": "UK2yNSZLZjI",
+        "title": "Live Event Highlight Reel",
+        "category": "Arena Summits & Keynotes",
+        "description": "Real moments captured professionally—the content people trust most"
+      },
+      {
+        "id": "oiu4XcBTKJI",
+        "title": "Conference Coverage",
+        "category": "Arena Summits & Keynotes",
+        "description": "Comprehensive documentation of key speaking moments"
+      },
+      {
+        "id": "lVltwpJCl8M",
+        "title": "Event Recap",
+        "category": "Arena Summits & Keynotes",
+        "description": "Capturing the highlights and key moments from live events"
+      },
+      {
+        "id": "tTfrrVtuG1Q",
+        "title": "Event Documentary",
+        "category": "Arena Summits & Keynotes",
+        "description": "Full coverage that tells the complete story of your event"
+      },
+      {
+        "id": "HrvKKR3sna4",
+        "title": "Brand Launch Event",
+        "category": "Live Festivals & Brand Launches",
+        "description": "Capturing the energy and excitement of a live brand launch"
+      },
+      {
+        "id": "ZDA5U0mG67s",
+        "title": "Networking Night",
+        "category": "Live Festivals & Brand Launches",
+        "description": "Professional coverage of high-value networking events"
+      },
+      {
+        "id": "UsvziEiGdyI",
+        "title": "Community Gathering",
+        "category": "Live Festivals & Brand Launches",
+        "description": "Documenting the moments that bring communities together"
+      },
+      {
+        "id": "hgwTh3gQRxM",
+        "title": "Panel Discussion",
+        "category": "Arena Summits & Keynotes",
+        "description": "Multi-angle coverage of expert panel conversations"
+      },
+      {
+        "id": "v3AG-gHwTmk",
+        "title": "Gala Coverage",
+        "category": "Arena Summits & Keynotes",
+        "description": "Elegant documentation of formal events and celebrations"
+      },
+      {
+        "id": "zGJdyMhOwuc",
+        "title": "Workshop Recap",
+        "category": "Facility Tours & BTS",
+        "description": "Capturing the learning moments and hands-on experiences"
+      },
+      {
+        "id": "mWf8vwBJ4KE",
+        "title": "Festival Highlights & Live Audience",
+        "category": "Live Festivals & Brand Launches",
+        "description": "Dynamic coverage of festival energy, crowd reactions, and stage performances.",
+        "coverImage": "/images/field-event-crowd.webp"
+      },
+      {
+        "id": "7ry3Ea5viwA",
+        "title": "Keynote Capture",
+        "category": "Arena Summits & Keynotes",
+        "description": "Professional documentation of keynote speeches and presentations"
+      },
+      {
+        "id": "bl1NOXonF-o",
+        "title": "Award Ceremony",
+        "category": "Arena Summits & Keynotes",
+        "description": "Capturing recognition moments and celebration highlights"
+      },
+      {
+        "id": "prs0Km24Ilk",
+        "title": "Behind the Scenes & Field Cinematography",
+        "category": "Facility Tours & BTS",
+        "description": "Authentic backstage coverage and cinema camera operation that shows the real production story.",
+        "coverImage": "/images/field-bts-director.webp"
+      },
+      {
+        "id": "4Dp83l0M6nw",
+        "title": "Grand Opening & Ribbon Cutting",
+        "category": "Live Festivals & Brand Launches",
+        "description": "Full-scale coverage of grand opening events, ribbon cuttings, and community ceremonies.",
+        "coverImage": "/images/field-ribbon-cutting.jpg"
+      }
+    ]
+  },
+  "social-media-management": {
+    "name": "Social Media Management",
+    "path": "/portfolio/social-media-management",
+    "slug": "social-media-management",
+    "description": "Strategic content calendar execution, cross-platform distribution, scheduling, and engagement-driven audience growth.",
+    "items": [
+      {
+        "id": "e9_m-ASdFks",
+        "title": "Content Calendar Execution",
+        "description": "Strategic posting demonstrating consistent brand visibility"
+      },
+      {
+        "id": "r6VzAOvgTpE",
+        "title": "Cross-Platform Campaign",
+        "description": "Unified content strategy across multiple channels",
+        "isVertical": true
+      },
+      {
+        "id": "oiu4XcBTKJI",
+        "title": "Engagement-Driven Content",
+        "description": "Posts designed to drive interaction and growth"
+      }
+    ]
+  },
+  "brand-blueprint": {
+    "name": "Brand Blueprint",
+    "path": "/portfolio/brand-blueprint",
+    "slug": "brand-blueprint",
+    "description": "Comprehensive brand identity, positioning strategy, promotional assets, podcast episodes, and social reels package.",
+    "items": [
+      {
+        "id": "consistent-content-foundation",
+        "title": "Consistent Content Engine — Strategic Brand Blueprint",
+        "category": "Strategic Architecture",
+        "description": "Comprehensive strategic blueprint mapping competitor perception, narrative pillars, and multi-platform distribution engine before principal photography.",
+        "coverImage": "/images/brand-blueprint-package.webp",
+        "videoSrc": "/videos/consistent-content-hero.mp4"
+      },
+      {
+        "id": "three-international-portraits",
+        "title": "Three International — Executive Leadership Series",
+        "category": "Commercial Photography",
+        "description": "12-leader soundstage commercial portraiture and executive media package engineered for global wellness leader Three International. Captured on IMN Soundstage A.",
+        "coverImage": "/images/three-international/jessica.webp",
+        "isPhoto": true,
+        "photoCount": 12
+      },
+      {
+        "id": "oiu4XcBTKJI",
+        "title": "Promotional Video Sample",
+        "description": "Brand authority video included in the package"
+      },
+      {
+        "id": "FLWL1GPW88Y",
+        "title": "Podcast Episode",
+        "description": "Full production podcast content",
+        "isVertical": true
+      },
+      {
+        "id": "r6VzAOvgTpE",
+        "title": "Instagram Reels",
+        "description": "Scroll-stopping vertical content",
+        "isVertical": true
+      },
+      {
+        "id": "e9_m-ASdFks",
+        "title": "Social Media Content",
+        "description": "Strategic posting across platforms"
+      },
+      {
+        "id": "UK2yNSZLZjI",
+        "title": "Event Coverage",
+        "description": "Live moments captured professionally"
+      },
+      {
+        "id": "ZROek9gA9uM",
+        "title": "Commercial Content",
+        "description": "Brand-defining video production"
+      }
+    ]
+  },
+  "ad-campaigns": {
+    "name": "Ad Campaigns",
+    "path": "/portfolio/ad-campaigns",
+    "slug": "ad-campaigns",
+    "description": "Targeted advertising campaigns designed to maximize ROI, drive clicks, generate leads, and boost revenue.",
+    "items": [
+      {
+        "id": "17QWbMqBLCz72mQE_0coOvJqY8zaXhNkH",
+        "title": "Emery Solutions — YouTube Video Campaign Spot 1",
+        "category": "Paid Advertising",
+        "description": "Direct-response YouTube campaign creative engineered to capture immediate customer intent and scale conversion.",
+        "coverImage": "/images/video-platform.jpg"
+      },
+      {
+        "id": "emery-spotlight-ad",
+        "title": "Emery Solutions — Performance Video Ad",
+        "category": "Paid Social & Meta Ads",
+        "description": "Fast-hook digital ad creative structured for high click-through rates across Meta and YouTube paid distribution.",
+        "coverImage": "/images/production-rig.jpg",
+        "videoSrc": "/videos/emery-solutions-spotlight.mp4"
+      },
+      {
+        "id": "inspire-invisalign-ad",
+        "title": "Inspire Dentistry — High-Conversion Invisalign Ad",
+        "category": "Healthcare Direct Response",
+        "description": "Patient-converting short-form ad creative demonstrating dramatic smile transformations and clinical excellence.",
+        "coverImage": "/images/invisalign-reel-cover.jpg",
+        "videoSrc": "/videos/invisalign-reel.mov"
+      },
+      {
+        "id": "1ljjyflTfQ9gnRKCY7N1WRS7gZe2Z8qR1",
+        "title": "QC Signs — Brand Dominance Commercial Ad",
+        "category": "B2B Brand Ads",
+        "description": "Broadcast-ready commercial ad establishing category leadership in commercial signage and architectural graphics.",
+        "coverImage": "/images/service-commercial-real.jpg"
+      },
+      {
+        "id": "0pWjzLQF3Ws",
+        "title": "Targeted Ad Campaign",
+        "description": "Strategic advertising designed to maximize ROI"
+      },
+      {
+        "id": "oiu4XcBTKJI",
+        "title": "Social Media Ad",
+        "description": "Platform-optimized content for paid distribution"
+      },
+      {
+        "id": "ZROek9gA9uM",
+        "title": "Conversion-Focused Spot",
+        "description": "Ad creative designed to drive action"
+      }
+    ]
+  }
+}
